@@ -7,7 +7,7 @@ import { useLocalStorage } from 'react-use'
 
 const isSysDark = () => {
   return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches
-} 
+}
 
 function App() {
   const [keysType, setKeysType] = useLocalStorage<"advanced" | "normal">("keysType", "advanced")
