@@ -3,6 +3,9 @@ A High-Precision Scientific Calculator Engineered for Extreme Computation
 
 Live Demo: [https://zcalc.vercel.app](https://zcalc.vercel.app)
 
+## 🎥 Video Demo
+[![Watch the ZCalc demo video](https://img.youtube.com/vi/2Y1P_H3jSsU/maxresdefault.jpg)](https://youtube.com/shorts/2Y1P_H3jSsU)
+
 ZCalc is a browser-based scientific calculator built with TypeScript and React that delivers unprecedented numerical precision — supporting calculations with up to **500 fractional digits**. Unlike conventional calculators that fail at large computations, ZCalc handles massively intensive operations — such as factorial of 1,000,000 — accurately and efficiently.
 
 ## 🚀 What Makes ZCalc Unique
